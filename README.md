@@ -2,7 +2,7 @@
 
 This is a ComfyUI node for Clarity AI, the creative image upscaler. It upscales and enhances images to high resolution.
 
-![alt text](before_after.png)
+![alt text](dog_example.png)
 
 ## Usage:
 

@@ -8,6 +8,9 @@ This is a ComfyUI node for Clarity AI, the creative image upscaler. It upscales 
 
 ### 1. Install Clarity AI node
 
+Open ComfyUI Manager, search for Clarity AI, and install the node. 
+
+Alternatively:
 ```bash
 cd custom_nodes
 git clone https://github.com/philz1337x/ComfyUI-ClarityAI
@@ -25,11 +28,6 @@ Alternatively, you can write your API key to a "`cai_platform_key.txt`" text fil
 
 Not recommended: You can also use and/or override the above by entering your API key in the '`api_key_override`' field. But be careful to delete the api_key_override when sharing your workflow.
 
-<!-- You have three options to install this custom node:
-
+<!-- 
 A) Drag and drop this image, with the workflow inside, into ComfyUI and install missing nodes. -->
 <!-- ![alt text](workflow_inside.png) -->
-
-<!-- B) -->
-
-<!-- C) Open ComfyUI Manager, search for Clarity AI, and install the node. -->

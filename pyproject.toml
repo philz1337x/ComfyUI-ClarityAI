@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-clarityai"
+description = "[a/Clarity AI](https://clarityai.cc) is a creative image enhancer and is able to upscale to high resolution. [w/NOTE: This is a Magnific AI alternative for ComfyUI.] \nCreate an API key on [a/ClarityAI.cc/api](https://clarityai.cc/api) and add to environment variable 'CAI_API_KEY'\nAlternatively you can write your API key to file 'cai_platform_key.txt'\nYou can also use and/or override the above by entering your API key in the 'api_key_override' field of the node."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/philz1337x/ComfyUI-ClarityAI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ClarityAI"
+Icon = ""

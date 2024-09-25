@@ -4,7 +4,16 @@ This is a ComfyUI node for Clarity AI, the creative image upscaler. It upscales 
 
 ![alt text](dog_example.png)
 
-## Usage:
+## Free Usage:
+
+We now have a fully ComfyUI workflow of Clarity upscaler, it seems to uses the same tech and is getting close to the clarity results. Needs some final tweaking to reach the same quality.
+Feel free to experiment and let me know if you discover great parameters.
+
+### 1. Install
+
+Just drag and drop the `free-workflow.json` workflow json file into your ComfyUI
+
+## Simple but paid usage:
 
 ### 1. Install Clarity AI node
 

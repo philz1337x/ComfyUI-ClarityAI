@@ -28,7 +28,7 @@ git clone https://github.com/philz1337x/ComfyUI-ClarityAI
 
 ### 2. Create your API key
 
-Create an API key at: https://clarityai.cc/comfyui
+Create an API key at: https://clarityai.co/comfyui
 
 ### 3. Add the key to the node
 
